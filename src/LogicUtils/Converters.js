@@ -5,7 +5,14 @@
     or session.
 ================================================================================================================= */
 
-const dayOfWeekArr = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"];
+const dayOfWeekArr = [
+  "Sunday",
+  "Monday",
+  "Tuesday",
+  "Wednesday",
+  "Thursday",
+  "Friday",
+];
 const sessionArr = [
   "02",
   "03",
